@@ -2,6 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DucksAndMore", "DucksAndMore\DucksAndMore.csproj", "{17AE4127-5C20-410B-AD4C-F71E277E9EDD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{428EF444-65AA-44D3-8722-25A084D20B1E} = {428EF444-65AA-44D3-8722-25A084D20B1E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckFarm", "D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\DuckFarm.csproj", "{428EF444-65AA-44D3-8722-25A084D20B1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +18,10 @@ Global
 		{17AE4127-5C20-410B-AD4C-F71E277E9EDD}.Debug|x86.Build.0 = Debug|x86
 		{17AE4127-5C20-410B-AD4C-F71E277E9EDD}.Release|x86.ActiveCfg = Release|x86
 		{17AE4127-5C20-410B-AD4C-F71E277E9EDD}.Release|x86.Build.0 = Release|x86
+		{428EF444-65AA-44D3-8722-25A084D20B1E}.Debug|x86.ActiveCfg = Debug|x86
+		{428EF444-65AA-44D3-8722-25A084D20B1E}.Debug|x86.Build.0 = Debug|x86
+		{428EF444-65AA-44D3-8722-25A084D20B1E}.Release|x86.ActiveCfg = Release|x86
+		{428EF444-65AA-44D3-8722-25A084D20B1E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

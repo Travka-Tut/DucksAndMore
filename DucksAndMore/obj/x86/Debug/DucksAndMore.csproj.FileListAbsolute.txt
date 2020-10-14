@@ -1,0 +1,4 @@
+C:\Users\celen\Projects\DucksAndMore\DucksAndMore\bin\Debug\DucksAndMore.exe
+C:\Users\celen\Projects\DucksAndMore\DucksAndMore\bin\Debug\DucksAndMore.pdb
+C:\Users\celen\Projects\DucksAndMore\DucksAndMore\obj\x86\Debug\DucksAndMore.exe
+C:\Users\celen\Projects\DucksAndMore\DucksAndMore\obj\x86\Debug\DucksAndMore.pdb
