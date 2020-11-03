@@ -1,5 +1,0 @@
-D:\АНДРЕИНО\универ\3 семестр\ООП\Restaraunt\Restaraunt\obj\x86\Debug\Restaraunt.csprojResolveAssemblyReference.cache
-D:\АНДРЕИНО\универ\3 семестр\ООП\Restaraunt\Restaraunt\bin\Debug\Restaraunt.exe
-D:\АНДРЕИНО\универ\3 семестр\ООП\Restaraunt\Restaraunt\bin\Debug\Restaraunt.pdb
-D:\АНДРЕИНО\универ\3 семестр\ООП\Restaraunt\Restaraunt\obj\x86\Debug\Restaraunt.exe
-D:\АНДРЕИНО\универ\3 семестр\ООП\Restaraunt\Restaraunt\obj\x86\Debug\Restaraunt.pdb

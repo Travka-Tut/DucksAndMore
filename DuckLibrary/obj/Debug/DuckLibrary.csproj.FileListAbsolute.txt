@@ -3,3 +3,8 @@ D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\bin\Debug\D
 D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\obj\Debug\DuckLibrary.dll
 D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\obj\Debug\DuckLibrary.pdb
 D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\obj\Debug\DuckLibrary.csprojResolveAssemblyReference.cache
+C:\Users\celen\Projects\DucksAndMore\DuckLibrary\bin\Debug\DuckLibrary.dll
+C:\Users\celen\Projects\DucksAndMore\DuckLibrary\bin\Debug\DuckLibrary.pdb
+C:\Users\celen\Projects\DucksAndMore\DuckLibrary\obj\Debug\DuckLibrary.csprojResolveAssemblyReference.cache
+C:\Users\celen\Projects\DucksAndMore\DuckLibrary\obj\Debug\DuckLibrary.dll
+C:\Users\celen\Projects\DucksAndMore\DuckLibrary\obj\Debug\DuckLibrary.pdb
