@@ -1,0 +1,7 @@
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\bin\Debug\DuckFarm.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.csprojResolveAssemblyReference.cache
+D:\АНДРЕИНО\универ\3 семестр\ООП\Ducks\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\Ducks\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.pdb

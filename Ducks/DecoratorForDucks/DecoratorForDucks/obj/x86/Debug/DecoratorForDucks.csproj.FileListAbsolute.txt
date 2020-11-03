@@ -1,0 +1,8 @@
+D:\АНДРЕИНО\универ\3 семестр\ООП\DecoratorForDucks\DecoratorForDucks\bin\Debug\DecoratorForDucks.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\DecoratorForDucks\DecoratorForDucks\bin\Debug\DecoratorForDucks.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\DecoratorForDucks\DecoratorForDucks\obj\x86\Debug\DecoratorForDucks.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\DecoratorForDucks\DecoratorForDucks\obj\x86\Debug\DecoratorForDucks.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\Ducks\DecoratorForDucks\DecoratorForDucks\bin\Debug\DecoratorForDucks.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\Ducks\DecoratorForDucks\DecoratorForDucks\bin\Debug\DecoratorForDucks.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\Ducks\DecoratorForDucks\DecoratorForDucks\obj\x86\Debug\DecoratorForDucks.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\Ducks\DecoratorForDucks\DecoratorForDucks\obj\x86\Debug\DecoratorForDucks.pdb

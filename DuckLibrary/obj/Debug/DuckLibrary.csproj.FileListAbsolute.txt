@@ -1,0 +1,5 @@
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\bin\Debug\DuckLibrary.dll
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\bin\Debug\DuckLibrary.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\obj\Debug\DuckLibrary.dll
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\obj\Debug\DuckLibrary.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\DuckLibrary\obj\Debug\DuckLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\АНДРЕИНО\универ\3 семестр\ООП\Turkey-Duck\Turkey-Duck\obj\x86\Debug\Turkey-Duck.csprojResolveAssemblyReference.cache
+D:\АНДРЕИНО\универ\3 семестр\ООП\Turkey-Duck\Turkey-Duck\bin\Debug\Turkey-Duck.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\Turkey-Duck\Turkey-Duck\bin\Debug\Turkey-Duck.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\Turkey-Duck\Turkey-Duck\bin\Debug\DuckLibrary.dll
+D:\АНДРЕИНО\универ\3 семестр\ООП\Turkey-Duck\Turkey-Duck\bin\Debug\DuckLibrary.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\Turkey-Duck\Turkey-Duck\obj\x86\Debug\Turkey-Duck.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\Turkey-Duck\Turkey-Duck\obj\x86\Debug\Turkey-Duck.pdb
