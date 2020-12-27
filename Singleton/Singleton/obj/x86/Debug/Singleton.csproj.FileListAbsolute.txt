@@ -1,0 +1,14 @@
+D:\АНДРЕИНО\универ\3 семестр\ООП\Singleton\Singleton\obj\x86\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\АНДРЕИНО\универ\3 семестр\ООП\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\Singleton\Singleton\bin\Debug\DuckLibrary.dll
+D:\АНДРЕИНО\универ\3 семестр\ООП\Singleton\Singleton\bin\Debug\DuckLibrary.pdb
+D:\АНДРЕИНО\универ\3 семестр\ООП\Singleton\Singleton\obj\x86\Debug\Singleton.exe
+D:\АНДРЕИНО\универ\3 семестр\ООП\Singleton\Singleton\obj\x86\Debug\Singleton.pdb
+C:\Users\celen\Projects\DucksAndMore\Singleton\Singleton\obj\x86\Debug\Singleton.exe
+C:\Users\celen\Projects\DucksAndMore\Singleton\Singleton\obj\x86\Debug\Singleton.pdb
+C:\Users\celen\Projects\DucksAndMore\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\celen\Projects\DucksAndMore\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\celen\Projects\DucksAndMore\Singleton\Singleton\bin\Debug\DuckLibrary.dll
+C:\Users\celen\Projects\DucksAndMore\Singleton\Singleton\bin\Debug\DuckLibrary.pdb
+C:\Users\celen\Projects\DucksAndMore\Singleton\Singleton\obj\x86\Debug\Singleton.csprojResolveAssemblyReference.cache

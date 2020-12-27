@@ -5,3 +5,6 @@ D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\obj\x
 D:\АНДРЕИНО\универ\3 семестр\ООП\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.csprojResolveAssemblyReference.cache
 C:\Users\celen\Projects\DucksAndMore\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.exe
 C:\Users\celen\Projects\DucksAndMore\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.pdb
+C:\Users\celen\Projects\DucksAndMore\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe
+C:\Users\celen\Projects\DucksAndMore\DuckFarm\DuckFarm\bin\Debug\DuckFarm.pdb
+C:\Users\celen\Projects\DucksAndMore\DuckFarm\DuckFarm\obj\x86\Debug\DuckFarm.csprojResolveAssemblyReference.cache

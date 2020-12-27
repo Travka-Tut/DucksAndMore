@@ -8,11 +8,12 @@ using System.Threading.Tasks;
 
 namespace DuckFarm.Ducks
 {
-    class Duck:BaseDuck
+   public class Duck:BaseDuck
     {
         public Duck (): base(new CanFly(),new CanQuack(),new CanSwim())
         {
-
+            Name = "Живая утка";
         }
+        public string Name;
     }
 }

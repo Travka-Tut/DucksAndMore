@@ -7,11 +7,12 @@ using DuckFarm.Move;
 
 namespace DuckFarm.Ducks
 {
-    class IronDuck:BaseDuck
+   public class IronDuck:BaseDuck
     {
         public IronDuck():base (new CanNotFly(),new CanNotQuack(),new CanNotSwim())
         {
-
+            Name = "Железная утка";
         }
+        public string Name;
     }
 }

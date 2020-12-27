@@ -5,3 +5,6 @@ D:\АНДРЕИНО\универ\3 семестр\ООП\Restaraunt\Restaraunt\o
 D:\АНДРЕИНО\универ\3 семестр\ООП\Restaraunt\Restaraunt\obj\x86\Debug\Restaraunt.pdb
 C:\Users\celen\Projects\DucksAndMore\Restaraunt\Restaraunt\obj\x86\Debug\Restaraunt.exe
 C:\Users\celen\Projects\DucksAndMore\Restaraunt\Restaraunt\obj\x86\Debug\Restaraunt.pdb
+C:\Users\celen\Projects\DucksAndMore\Restaraunt\Restaraunt\bin\Debug\Restaraunt.exe
+C:\Users\celen\Projects\DucksAndMore\Restaraunt\Restaraunt\bin\Debug\Restaraunt.pdb
+C:\Users\celen\Projects\DucksAndMore\Restaraunt\Restaraunt\obj\x86\Debug\Restaraunt.csprojResolveAssemblyReference.cache
