@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Restaraunt
 {
-   public interface IIterator
+   public interface IIterator        //тупо интерфейс, который выберет какое блюдо куда отправлять ( в массив или в список)
     {
         bool HasNext();
         MenuItem Next();

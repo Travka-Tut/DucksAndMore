@@ -11,7 +11,8 @@ namespace DuckFarm.Ducks
     {
         public IronDuck():base (new CanNotFly(),new CanNotQuack(),new CanNotSwim())
         {
-
+            Name = "Железная утка";
         }
+        public string Name;
     }
 }

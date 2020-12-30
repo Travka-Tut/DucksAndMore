@@ -9,7 +9,7 @@ using DuckFarm.Move;
 
 namespace Turkey_Duck
 {
-    class TurkeyToDuckAdapter:BaseDuck
+    class TurkeyToDuckAdapter:BaseDuck          //наследуем от утки, чтоб можно было перевести индюшиный язык на утячий
     {
         readonly Turkey _turkey;
          
@@ -17,7 +17,7 @@ namespace Turkey_Duck
         {
             _turkey = turkey;
         }
-        public override void Quack()
+        public override void Quack()          //вот тут переводчик
         {
             _turkey.Cackle();
         }

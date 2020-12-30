@@ -5,14 +5,14 @@ using System.Text;
 
 namespace DecoratorForDucks
 {
-    public class Chicken:Bird
+    public class Chicken:Bird             //создаем курицу
     {
-        public override string GetDescription()
+        public override string GetDescription()      //переопределяем описание
         {
             return "Chicken";
         }
 
-        public override double Cost()
+        public override double Cost()             //и цену
         { return 3.99; }
     }
 }

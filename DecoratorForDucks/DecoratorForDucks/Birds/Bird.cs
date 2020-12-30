@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DecoratorForDucks
 {
-    public abstract class Bird
+    public abstract class Bird          //хз, как работает, но очень нужен
     {
         //public string _description = "No Bird for sale";
 

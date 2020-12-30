@@ -7,7 +7,7 @@ using DuckFarm.Move;
 
 namespace Turkey_Duck
 {
-    class Turkey
+    class Turkey      //тупо индюк обыкновенный (создается, как утка)
     {
         readonly IFly _fly;
         readonly ISwim _swim;

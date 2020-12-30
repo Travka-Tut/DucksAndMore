@@ -8,7 +8,7 @@ using DuckFarm.Interface;
 
 namespace DuckFarm.Ducks
 {
-    public abstract class BaseDuck
+    public abstract class BaseDuck         //главарь уток (тупо тень, непонятная материя, котрая даже не сущетвует), но важная часть кода
     {
         readonly IFly _fly;
         readonly IQuack _quack;

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DecoratorForDucks
 {
-    class Duck : Bird
+    class Duck : Bird            //утка - как и курица
     {
         public override string GetDescription()
         {

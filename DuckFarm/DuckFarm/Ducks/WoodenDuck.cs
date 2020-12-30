@@ -12,7 +12,8 @@ namespace DuckFarm.Ducks
     {
        public WoodenDuck():base(new CanNotFly(),new CanNotQuack(),new CanSwim())
         {
-
+            Name = "Деревянная утка";
         }
+       public string Name;
     }
 }

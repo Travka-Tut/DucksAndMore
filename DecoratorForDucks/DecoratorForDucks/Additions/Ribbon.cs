@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DecoratorForDucks
 {
-   public class Ribbon:Bird   //в ленточке
+   public class Ribbon:Bird   //в ленточке (смотри в очки, ну или в очко(куда привычнее))
     {
        Bird _bird;
 

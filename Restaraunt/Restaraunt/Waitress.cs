@@ -5,18 +5,18 @@ using System.Text;
 
 namespace Restaraunt
 {
-   public class Waitress
+   public class Waitress               //официантка, принимающая меню и в виде массива и в виде списка
     {
         DuckParadiseMenu _duckParadiseMenu;
         HellDuckMenu _hellDuckMenu;
 
-        public Waitress(DuckParadiseMenu duckParadiseMenu, HellDuckMenu hellDuckMenu)
+        public Waitress(DuckParadiseMenu duckParadiseMenu, HellDuckMenu hellDuckMenu)        //принимает экземпляры двых меню
         {
             this._duckParadiseMenu = duckParadiseMenu;
             this._hellDuckMenu = hellDuckMenu;
         }
 
-        public void PrintMenu()
+        public void PrintMenu()            //при печати меню использует итератор(сам прочтешь в книге)
         {
             IIterator hellDuckIterator = _hellDuckMenu.CreateIterator();
             IIterator duckParadiseIterator = _duckParadiseMenu.CreateIterator();
@@ -27,7 +27,7 @@ namespace Restaraunt
 
         }
 
-        private void PrintMenu(IIterator iterator)
+        private void PrintMenu(IIterator iterator)               //хз зачем, но надо
         {
             while (iterator.HasNext())
             {

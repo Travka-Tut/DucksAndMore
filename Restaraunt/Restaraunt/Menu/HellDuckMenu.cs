@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Restaraunt
 {
-   public class HellDuckMenu
+   public class HellDuckMenu         //меню - массив (реализация точно така же (смотри меню - список))
     {
        static int maxItems = 6;
        int numberOfItems = 0;

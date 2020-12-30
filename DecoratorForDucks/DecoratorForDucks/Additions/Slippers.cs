@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DecoratorForDucks
 {
-    class Slippers : Bird        //в тапочках
+    class Slippers : Bird        //в тапочках        смотри в очки(дальше сам знаешь)
     {
         Bird _bird;
 

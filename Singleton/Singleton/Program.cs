@@ -8,11 +8,11 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            DuckStorage duckstorage = DuckStorage.Get();
+            DuckStorage duckstorage = DuckStorage.Get();        //создаем склад
             Console.WriteLine("Рождение живых уток...");
             for (int i = 0; i < 5; i++)
             {
-                Duck duck = new Duck();
+                Duck duck = new Duck();                     //создаем уток и добавляем на склад
                 duckstorage.Add(duck.Name);
             }
             
@@ -33,7 +33,7 @@ namespace Singleton
             }
 
             Console.WriteLine("На складе имеется:");
-            foreach (KeyValuePair<string,int> keyValue in duckstorage.Storage)
+            foreach (KeyValuePair<string,int> keyValue in duckstorage.Storage)          //извлечение значений из словаря
             {
                 Console.WriteLine(keyValue.Key + ": " + keyValue.Value+" штук");
             }

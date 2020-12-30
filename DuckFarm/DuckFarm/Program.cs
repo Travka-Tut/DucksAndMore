@@ -10,18 +10,21 @@ namespace DuckFarm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Живая утка:\n");
+            //создаем разных уток и заставляем их рассказывать о себе
             Duck duck = new Duck();
+            Console.WriteLine(duck.Name+":\n");                    
             duck.Fly();
             duck.Quack();
             duck.Swim();
-            Console.WriteLine("\n\nДеревянная уточка:\n");
-            WoodenDuck wodenduck = new WoodenDuck();
-            wodenduck.Fly();
-            wodenduck.Quack();
-            wodenduck.Swim();
-            Console.WriteLine("\n\nЖелезная утка:\n");
+
+            WoodenDuck woodenduck = new WoodenDuck();
+            Console.WriteLine("\n"+woodenduck.Name + ":\n");
+            woodenduck.Fly();
+            woodenduck.Quack();
+            woodenduck.Swim();
+
             IronDuck ironduck = new IronDuck();
+            Console.WriteLine("\n" + ironduck.Name + ":\n");
             ironduck.Fly();
             ironduck.Quack();
             ironduck.Swim();

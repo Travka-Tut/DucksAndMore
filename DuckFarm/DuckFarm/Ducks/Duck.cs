@@ -12,7 +12,8 @@ namespace DuckFarm.Ducks
     {
         public Duck (): base(new CanFly(),new CanQuack(),new CanSwim())
         {
-
+            Name = "Живая утка"; 
         }
+        public string Name;
     }
 }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Restaraunt
 {
-   public class HellDuckIterator:IIterator
+   public class HellDuckIterator:IIterator            //то же самое, только с массивом блюд
     {
        MenuItem[] items;
        int position = 0;
